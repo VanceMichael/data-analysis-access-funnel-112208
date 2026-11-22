@@ -1,0 +1,26 @@
+[
+  {
+    "report": "R01",
+    "channel": "远程",
+    "max_minutes": "40",
+    "min_sample": "2",
+    "as_of": "35",
+    "state": "已送"
+  },
+  {
+    "report": "R02",
+    "channel": "窗口",
+    "max_minutes": "48",
+    "min_sample": "2",
+    "as_of": "45",
+    "state": "待签"
+  },
+  {
+    "report": "R03",
+    "channel": "远程",
+    "max_minutes": "40",
+    "min_sample": "3",
+    "as_of": "50",
+    "state": "待签"
+  }
+]

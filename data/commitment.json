@@ -1,0 +1,20 @@
+[
+  {
+    "app": "A1",
+    "accepted": "21",
+    "deadline": "35",
+    "report": "R01"
+  },
+  {
+    "app": "A2",
+    "accepted": "19",
+    "deadline": "55",
+    "report": "R01"
+  },
+  {
+    "app": "A3",
+    "accepted": "4",
+    "deadline": "48",
+    "report": "R02"
+  }
+]

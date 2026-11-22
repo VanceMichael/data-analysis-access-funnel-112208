@@ -1,0 +1,122 @@
+[
+  {
+    "period": "W0",
+    "family": "H10",
+    "app": "A10",
+    "region": "R1",
+    "channel": "窗口",
+    "ready": "4",
+    "arrived": "11",
+    "accepted": "19",
+    "completed": "38",
+    "observed_until": "60"
+  },
+  {
+    "period": "W0",
+    "family": "H10",
+    "app": "A11",
+    "region": "R1",
+    "channel": "窗口",
+    "ready": "4",
+    "arrived": "21",
+    "accepted": "29",
+    "completed": "55",
+    "observed_until": "60"
+  },
+  {
+    "period": "W0",
+    "family": "H11",
+    "app": "A12",
+    "region": "R2",
+    "channel": "窗口",
+    "ready": "7",
+    "arrived": "14",
+    "accepted": "16",
+    "completed": "34",
+    "observed_until": "60"
+  },
+  {
+    "period": "W0",
+    "family": "H12",
+    "app": "A13",
+    "region": "R1",
+    "channel": "窗口",
+    "ready": "3",
+    "arrived": "16",
+    "accepted": "24",
+    "completed": "?",
+    "observed_until": "60"
+  },
+  {
+    "period": "W0",
+    "family": "H13",
+    "app": "A14",
+    "region": "R3",
+    "channel": "窗口",
+    "ready": "9",
+    "arrived": "22",
+    "accepted": "25",
+    "completed": "57",
+    "observed_until": "60"
+  },
+  {
+    "period": "W1",
+    "family": "H1",
+    "app": "A1",
+    "region": "R1",
+    "channel": "远程",
+    "ready": "12",
+    "arrived": "21",
+    "accepted": "22",
+    "completed": "27",
+    "observed_until": "27"
+  },
+  {
+    "period": "W1",
+    "family": "H1",
+    "app": "A2",
+    "region": "R1",
+    "channel": "远程",
+    "ready": "12",
+    "arrived": "?",
+    "accepted": "?",
+    "completed": "?",
+    "observed_until": "50"
+  },
+  {
+    "period": "W1",
+    "family": "H2",
+    "app": "A3",
+    "region": "R2",
+    "channel": "窗口",
+    "ready": "2",
+    "arrived": "1",
+    "accepted": "4",
+    "completed": "28",
+    "observed_until": "28"
+  },
+  {
+    "period": "W1",
+    "family": "H3",
+    "app": "A4",
+    "region": "R3",
+    "channel": "远程",
+    "ready": "25",
+    "arrived": "31",
+    "accepted": "?",
+    "completed": "?",
+    "observed_until": "50"
+  },
+  {
+    "period": "W1",
+    "family": "H4",
+    "app": "A5",
+    "region": "R1",
+    "channel": "窗口",
+    "ready": "?",
+    "arrived": "13",
+    "accepted": "?",
+    "completed": "?",
+    "observed_until": "19"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "reservation": "J2",
+    "app": "A2",
+    "site": "校甲",
+    "at": "19",
+    "kind": "已接受",
+    "previous": "?"
+  },
+  {
+    "reservation": "J3",
+    "app": "A2",
+    "site": "校乙",
+    "at": "30",
+    "kind": "待接受",
+    "previous": "J2"
+  },
+  {
+    "reservation": "J3",
+    "app": "A2",
+    "site": "校乙",
+    "at": "42",
+    "kind": "已接受",
+    "previous": "J2"
+  },
+  {
+    "reservation": "J7",
+    "app": "A5",
+    "site": "校乙",
+    "at": "18",
+    "kind": "申请失败",
+    "previous": "J6"
+  }
+]

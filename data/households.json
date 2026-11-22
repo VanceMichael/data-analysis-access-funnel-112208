@@ -1,0 +1,37 @@
+[
+  {
+    "family": "H1",
+    "student": "S1",
+    "app": "A1",
+    "proof": "K1",
+    "region": "R1"
+  },
+  {
+    "family": "H1",
+    "student": "S2",
+    "app": "A2",
+    "proof": "K1",
+    "region": "R1"
+  },
+  {
+    "family": "H2",
+    "student": "S3",
+    "app": "A3",
+    "proof": "K2",
+    "region": "R2"
+  },
+  {
+    "family": "H3",
+    "student": "S4",
+    "app": "A4",
+    "proof": "K3",
+    "region": "R3"
+  },
+  {
+    "family": "H4",
+    "student": "S5",
+    "app": "A5",
+    "proof": "K4",
+    "region": "R1"
+  }
+]

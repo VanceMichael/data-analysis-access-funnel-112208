@@ -1,0 +1,128 @@
+[
+  {
+    "app": "A1",
+    "at": "2",
+    "site": "平台",
+    "event": "家长开始",
+    "reference": "T1"
+  },
+  {
+    "app": "A1",
+    "at": "12",
+    "site": "平台",
+    "event": "签署成功",
+    "reference": "K1"
+  },
+  {
+    "app": "A1",
+    "at": "21",
+    "site": "校甲",
+    "event": "到场",
+    "reference": "J1"
+  },
+  {
+    "app": "A1",
+    "at": "22",
+    "site": "校甲",
+    "event": "受理",
+    "reference": "J1"
+  },
+  {
+    "app": "A1",
+    "at": "27",
+    "site": "校甲",
+    "event": "已办结",
+    "reference": "J1"
+  },
+  {
+    "app": "A2",
+    "at": "9",
+    "site": "平台",
+    "event": "家长开始",
+    "reference": "T2"
+  },
+  {
+    "app": "A2",
+    "at": "19",
+    "site": "校甲",
+    "event": "预约",
+    "reference": "J2"
+  },
+  {
+    "app": "A2",
+    "at": "30",
+    "site": "校乙",
+    "event": "改约申请",
+    "reference": "J3"
+  },
+  {
+    "app": "A2",
+    "at": "42",
+    "site": "校乙",
+    "event": "改约接受",
+    "reference": "J3"
+  },
+  {
+    "app": "A3",
+    "at": "1",
+    "site": "校乙",
+    "event": "到场",
+    "reference": "J4"
+  },
+  {
+    "app": "A3",
+    "at": "4",
+    "site": "校乙",
+    "event": "受理",
+    "reference": "J4"
+  },
+  {
+    "app": "A3",
+    "at": "28",
+    "site": "校乙",
+    "event": "已办结",
+    "reference": "J4"
+  },
+  {
+    "app": "A4",
+    "at": "3",
+    "site": "平台",
+    "event": "家长开始",
+    "reference": "T5"
+  },
+  {
+    "app": "A4",
+    "at": "29",
+    "site": "校丙",
+    "event": "无需预审",
+    "reference": "J5"
+  },
+  {
+    "app": "A4",
+    "at": "31",
+    "site": "校丙",
+    "event": "到场",
+    "reference": "J5"
+  },
+  {
+    "app": "A4",
+    "at": "47",
+    "site": "校丙",
+    "event": "待办",
+    "reference": "J5"
+  },
+  {
+    "app": "A5",
+    "at": "13",
+    "site": "校甲",
+    "event": "到场",
+    "reference": "J6"
+  },
+  {
+    "app": "A5",
+    "at": "19",
+    "site": "校甲",
+    "event": "观测中断",
+    "reference": "J6"
+  }
+]

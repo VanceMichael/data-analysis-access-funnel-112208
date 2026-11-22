@@ -1,0 +1,34 @@
+[
+  {
+    "site": "校甲",
+    "window": "20-40",
+    "team": "E1",
+    "mode": "远程",
+    "slots": "3",
+    "shared": "yes"
+  },
+  {
+    "site": "校甲",
+    "window": "20-40",
+    "team": "E1",
+    "mode": "窗口",
+    "slots": "4",
+    "shared": "yes"
+  },
+  {
+    "site": "校乙",
+    "window": "35-60",
+    "team": "E2",
+    "mode": "窗口",
+    "slots": "5",
+    "shared": "no"
+  },
+  {
+    "site": "校丙",
+    "window": "30-50",
+    "team": "E3",
+    "mode": "窗口",
+    "slots": "2",
+    "shared": "no"
+  }
+]
